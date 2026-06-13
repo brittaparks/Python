@@ -9,7 +9,7 @@
 **[Password Generator](https://github.com/brittaparks/Password-Generator/blob/main/main.py)**  
 **[Comparing Files In Python](https://github.com/brittaparks/Comparing-Files-In-Python/blob/main/main.py)**  
 **[Reading A File In Python](https://github.com/brittaparks/Reading-A-File-In-Python/blob/main/main.py)**  
-**[Writing To An Existing File In Python](https://github.com/brittaparks/Writing-To-An-Existing-File-In-Python)**  
+**[Writing To An Existing File In Python](https://github.com/brittaparks/Writing-To-An-Existing-File-In-Python/blob/main/main.py)**  
 **[Creating A File In Python](https://github.com/brittaparks/Creating-A-File-In-Python/blob/main/main.py)**  
 **[CSV Files](https://github.com/brittaparks/CSV-Files-In-Python/blob/main/main.py)**  
 **[Threat Hunting - Typosquatting/Brand Impersonation](https://github.com/brittaparks/Threat-Hunting-Scenario-Typosquatting)**  
