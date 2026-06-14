@@ -1,5 +1,6 @@
 # Python Projects
 
+## Python Fundamentals  
 **[Heads or Tails](https://github.com/brittaparks/Heads-or-Tails/blob/main/main.py)**  
 **[Tip Calculator](https://github.com/brittaparks/Tip-Calculator/blob/main/main.py)**  
 **[Pizza Order](https://github.com/brittaparks/Pizza-Order/blob/main/main.py)**  
@@ -7,6 +8,8 @@
 **[Banker Roulette](https://github.com/brittaparks/Banker-Roulette/blob/main/main.py)**  
 **[Rock Paper Scissors](https://github.com/brittaparks/Rock-Paper-Scissors/blob/main/main.py)**  
 **[Password Generator](https://github.com/brittaparks/Password-Generator/blob/main/main.py)**  
+
+## Cybersecurity & IT Automation Tasks  
 **[Creating A File In Python](https://github.com/brittaparks/Creating-A-File-In-Python/blob/main/main.py)**  
 **[Writing To An Existing File In Python](https://github.com/brittaparks/Writing-To-An-Existing-File-In-Python/blob/main/main.py)**  
 **[Reading A File In Python](https://github.com/brittaparks/Reading-A-File-In-Python/blob/main/main.py)**  
