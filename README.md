@@ -12,4 +12,5 @@
 **[Reading A File In Python](https://github.com/brittaparks/Reading-A-File-In-Python/blob/main/main.py)**  
 **[Comparing Files In Python](https://github.com/brittaparks/Comparing-Files-In-Python/blob/main/main.py)**  
 **[CSV Files](https://github.com/brittaparks/CSV-Files-In-Python/blob/main/main.py)**  
+**[Log Analysis In Python](https://github.com/brittaparks/Log-Analysis-In-Python/blob/main/main.py)**  
 **[Threat Hunting - Typosquatting/Brand Impersonation](https://github.com/brittaparks/Threat-Hunting-Scenario-Typosquatting)**  
